@@ -1,0 +1,2 @@
+# isRicky
+isRicky npm package
